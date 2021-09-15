@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-page_css_class: 'Heii]'
+page_css_class: Heii
 white_header: false
 sections:
   - section_id: lorem-ipsum

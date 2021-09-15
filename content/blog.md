@@ -2,7 +2,11 @@
 title: lorem-ipsum
 page_css_class: lorem-ipsum
 white_header: false
-sections: []
+sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
 seo:
   title: ''
   description: ''
